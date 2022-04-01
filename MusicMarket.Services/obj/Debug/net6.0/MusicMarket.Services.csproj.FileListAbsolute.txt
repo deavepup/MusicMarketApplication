@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\bin\Debug\net6.0\MusicMarket.Services.deps.json
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\bin\Debug\net6.0\MusicMarket.Services.dll
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\bin\Debug\net6.0\ref\MusicMarket.Services.dll
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\bin\Debug\net6.0\MusicMarket.Services.pdb
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\bin\Debug\net6.0\MusicMarket.Core.dll
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\bin\Debug\net6.0\MusicMarket.Core.pdb
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.AssemblyInfo.cs
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.csproj.CopyComplete
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.dll
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\ref\MusicMarket.Services.dll
+C:\Users\PC\Desktop\MusicMarketApplication\MusicMarket.Services\obj\Debug\net6.0\MusicMarket.Services.pdb

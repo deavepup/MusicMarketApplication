@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9b15182-6a2d-419e-8e46-094737523979": {
+      "ProjectGuid": "e9b15182-6a2d-419e-8e46-094737523979",
+      "DisplayName": "MusicMarket.Api",
+      "ColorIndex": 0
+    },
+    "7cc35189-9d33-435e-aa9b-274d2e67d810": {
+      "ProjectGuid": "7cc35189-9d33-435e-aa9b-274d2e67d810",
+      "DisplayName": "MusicMarket.Core",
+      "ColorIndex": 1
+    },
+    "b2ab4fae-d929-4664-84ab-dc3c5fa7ac2f": {
+      "ProjectGuid": "b2ab4fae-d929-4664-84ab-dc3c5fa7ac2f",
+      "DisplayName": "MusicMarket.Services",
+      "ColorIndex": 2
+    },
+    "1b5fd0de-2d5e-4d34-93aa-5793d0293f60": {
+      "ProjectGuid": "1b5fd0de-2d5e-4d34-93aa-5793d0293f60",
+      "DisplayName": "MusicMarket.Data",
+      "ColorIndex": 3
+    },
+    "2d404bbe-126b-47a1-8e55-bf44961943c3": {
+      "ProjectGuid": "2d404bbe-126b-47a1-8e55-bf44961943c3",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
